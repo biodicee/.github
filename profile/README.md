@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/rdatatoolbox/.github/main/profile/banner-rdatatoolbox_150dpi.png)
 
-Welcome to the **BIODICEE (Biodiversity: Dynamics, Interactions and Conservation)** public repository.
+Welcome to the **BIODICEE (Biodiversity: Dynamics, Interactions and Conservation)** public repository.\\
 Our team is based at **ISEM** the Institute of Evolutionary Science in Montpellier University, France.
 
 
