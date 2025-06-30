@@ -1,7 +1,7 @@
 ## Hi there
 
 <!-- ![](https://raw.githubusercontent.com/biodicee/.github/main/profile/banner-rdatatoolbox_150dpi.png) -->
-<img src="/profile/13062379.png"  width="10%"> <img src="/profile/logo_ISEM.jpg"  width="300">
+<img src="/profile/13062379.png"  width="10%"> <img src="/profile/logo_ISEM.jpg"  width="200">
 
 <!--![](https://raw.githubusercontent.com/biodicee/.github/main/profile/13062379.png){width=200 height=200} -->
 <!--![](https://raw.githubusercontent.com/biodicee/.github/main/profile/logo_ISEM.jpg) -->
