@@ -2,8 +2,8 @@
 
 ![](https://raw.githubusercontent.com/rdatatoolbox/.github/main/profile/banner-rdatatoolbox_150dpi.png)
 
-Welcome to the **_Reproducible Research in Computational Ecology_** training course :mortar_board: co-organized by the 
-[FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) and the 
-[GdR EcoStat](https://sites.google.com/site/gdrecostat/).
+Welcome to the **BIODICEE (Biodiversity: Dynamics, Interactions and Conservation)** public repository.
+Our team is based at **ISEM** the Institute of Evolutionary Science in Montpellier University, France.
 
-🚀 Website available at: [**`https://rdatatoolbox.github.io/`**](https://rdatatoolbox.github.io/)
+
+Website available at: [**`https://biodicee.edu.umontpellier.fr`**](https://biodicee.edu.umontpellier.fr)
