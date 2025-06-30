@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-<!-- ![](https://raw.githubusercontent.com/rdatatoolbox/.github/main/profile/banner-rdatatoolbox_150dpi.png) -->
+<!-- ![](https://raw.githubusercontent.com/biodicee/.github/main/profile/banner-rdatatoolbox_150dpi.png) -->
 
 Welcome to the **BIODICEE (Biodiversity: Dynamics, Interactions and Conservation)** public repository. <br>
 Our team is based at **ISEM** the Institute of Evolutionary Science in Montpellier University, France.
