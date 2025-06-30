@@ -1,3 +1,4 @@
 # Organization Profile
 
-Homepage of the GitHub organization **_Data Toolbox for Reproducible Research in Computational Ecology_**
+Homepage of the GitHub organization **_BIODICEE_** (Biodiversity: Dynamics, Interactions and Conservation) based at **ISEM** the Institute of Evolutionary Science in Montpellier University, France.
+
